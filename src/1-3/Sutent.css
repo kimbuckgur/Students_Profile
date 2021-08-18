@@ -1,0 +1,76 @@
+#body_all{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-left: 40px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: start;
+}
+.name{
+    transition: all,1s;
+    color: rgba(0, 0, 0, 0);
+}
+.name:hover{
+    color: black;
+    cursor: pointer;
+}
+#name_1{
+    color: black;
+    display: inline;
+}
+#name_2{
+    padding-left: 10px;
+    display: inline;
+}
+.age{
+    margin-top: 15px;
+    transition: all,1s;
+    color: rgba(0, 0, 0, 0);
+}
+.age:hover{
+    color: black;
+    cursor: pointer;
+}
+#age_1{
+    color: black;
+    display: inline;
+}
+#age_2{
+    padding-left: 10px;
+    display: inline;
+}
+.Major{
+    margin-top: 15px;
+    transition: all,1s;
+    color: rgba(0, 0, 0, 0);
+}
+.Major:hover{
+    color: black;
+    cursor: pointer;
+}
+#Major_1{
+    color: black;
+    display: inline;
+}
+#Major_2{
+    padding-left: 10px;
+    display: inline;
+}
+.Circles{
+    margin-top: 15px;
+    transition: all,1s;
+    color: rgba(0, 0, 0, 0);
+}
+.Circles:hover{
+    color: black;
+    cursor: pointer;
+}
+#Circles_1{
+    color: black;
+    display: inline;
+}
+#Circles_2{
+    padding-left: 10px;
+    display: inline;
+}

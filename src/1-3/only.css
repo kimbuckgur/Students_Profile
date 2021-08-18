@@ -1,0 +1,55 @@
+body{
+    padding-top: 65px;
+  }
+  header{
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+    }
+    .head_bar{
+      display: flex;
+      width: 100%;
+      background-color: #1f1f1f;
+      font-size: 20px;
+      font-weight: 600;
+      color: white;
+      padding: 20px;
+    }
+    .react{
+      margin-bottom: 3px;
+      width: 40px;
+    }
+    .text:hover{
+      cursor: pointer;
+      color: rgb(207, 207, 207)
+    }
+    #검색창{
+      width: 550px;
+      background-color: rgb(231, 231, 231);
+      border: rgba(0, 0, 0, 0);
+      border-radius: 3px;
+      margin-left: 330px;
+    }
+    .login{
+      margin-left: 260px;
+      border: 2px solid rgb(151, 151, 151);
+      border-radius: 4px;
+      padding: 3px;
+      font-size: 15px;
+    }
+    .login:hover{
+      color: rgb(139, 139, 139);
+      cursor: pointer;
+    }
+    .sign_up{
+      margin-left: 5px;
+      border: 2px solid rgb(151, 151, 151);
+      border-radius: 4px;
+      padding: 3px;
+      font-size: 15px;
+    }
+    .sign_up:hover{
+      color: rgb(116, 116, 116);
+      cursor: pointer;
+    }
